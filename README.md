@@ -7,9 +7,6 @@
 
 ## 💡 What I'm Building
 
-### 🎛️ [DJ Track Monitor](https://github.com/your-project-link)
-A platform helping DJs and venues log track history, analyze crowd impact, and track music trends in real time.
-
 ### 📦 PushPack
 A smart distribution and promo platform for indie artists to run targeted influencer and DJ campaigns with clear ROI.
 
